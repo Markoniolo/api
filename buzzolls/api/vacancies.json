@@ -25,8 +25,8 @@
     ],
     "EmployeeType": 1,
     "DescriptionShort": "Готовит\r\nправильные роллы \r\nи поддерживает\r\nпорядок на кухне",
-    "Image": "/catalog/vacancy/vacancy-1.jpg",
-    "Photo": "/catalog/vacancy/photo-1.png",
+    "Image": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/vacancy/vacancy-1.jpg",
+    "Photo": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/vacancy/photo-1.png",
     "backgroundColor": "#e8f159",
     "headlineColor": "#282828",
     "textColor": "#282828"
@@ -53,8 +53,8 @@
     ],
     "EmployeeType": 2,
     "DescriptionShort": "Принимает заказы \r\nпо телефону\r\nи решает \r\nпроблемные ситуации.",
-    "Image": "/catalog/vacancy/vacancy-2.jpg",
-    "Photo": "/catalog/vacancy/photo-2.png",
+    "Image": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/vacancy/vacancy-2.jpg",
+    "Photo": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/vacancy/photo-2.png",
     "backgroundColor": "#555555",
     "headlineColor": "#ffffff",
     "textColor": "#ffffff"
@@ -85,8 +85,8 @@
     ],
     "EmployeeType": 3,
     "DescriptionShort": "Общается с гостями, \r\nсоздает гостеприимную атмосферу, \r\nупаковывает заказы \r\nи следит за чистотой \r\nв зале",
-    "Image": "/catalog/vacancy/vacancy-3.jpg",
-    "Photo": "/catalog/vacancy/photo-3.png",
+    "Image": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/vacancy/vacancy-3.jpg",
+    "Photo": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/vacancy/photo-3.png",
     "backgroundColor": "#f39f23",
     "headlineColor": "#ffffff",
     "textColor": "#282828"
@@ -115,8 +115,8 @@
     ],
     "EmployeeType": 0,
     "DescriptionShort": "Доставляет продукт\r\nклиенту, следит\r\nза порядком \r\nу входной зоны",
-    "Image": "/catalog/vacancy/vacancy-4.jpg",
-    "Photo": "/catalog/vacancy/photo-4.png",
+    "Image": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/vacancy/vacancy-4.jpg",
+    "Photo": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/vacancy/photo-4.png",
     "backgroundColor": "#87bc4a",
     "headlineColor": "#ffffff",
     "textColor": "#282828"

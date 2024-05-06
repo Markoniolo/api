@@ -1,17 +1,17 @@
 [
   {
-    "image_1920": "/catalog/stock/stock-1_1920.jpg",
-    "image_1024": "/catalog/stock/stock-1_1024.jpg",
-    "image_626": "/catalog/stock/stock-1_626.jpg"
+    "image_1920": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/stock/stock-1_1920.jpg",
+    "image_1024": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/stock/stock-1_1024.jpg",
+    "image_626": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/stock/stock-1_626.jpg"
   },
   {
-    "image_1920": "/catalog/stock/stock-2_1920.jpg",
-    "image_1024": "/catalog/stock/stock-2_1024.jpg",
-    "image_626": "/catalog/stock/stock-2_626.jpg"
+    "image_1920": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/stock/stock-2_1920.jpg",
+    "image_1024": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/stock/stock-2_1024.jpg",
+    "image_626": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/stock/stock-2_626.jpg"
   },
   {
-    "image_1920": "/catalog/stock/stock-3_1920.jpg",
-    "image_1024": "/catalog/stock/stock-3_1024.jpg",
-    "image_626": "/catalog/stock/stock-3_626.jpg"
+    "image_1920": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/stock/stock-3_1920.jpg",
+    "image_1024": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/stock/stock-3_1024.jpg",
+    "image_626": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/stock/stock-3_626.jpg"
   }
 ]

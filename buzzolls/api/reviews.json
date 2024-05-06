@@ -4,7 +4,7 @@
     "FirstName": "Полина",
     "Patronymic": "Вячеславовна",
     "EmployeeTypeString": "Оператор КЦ",
-    "Photo": "/catalog/reviews/reviews-1.png",
+    "Photo": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/reviews/reviews-1.png",
     "Text": "Меня зовут Полина и моя работа приносит мне только удовольствие. В компании я работаю оператором почти год и ни разу не разочаровалась в своем выборе. Нам проводят дополнительные тренинги, поэтому мы растем вместе с компанией. В компании предусмотрены приятные бонусы, которые очень нас радуют! \n \n"
   },
   {
@@ -12,7 +12,7 @@
     "FirstName": "Алена",
     "Patronymic": "Игоревна",
     "EmployeeTypeString": "Оператор КЦ",
-    "Photo": "/catalog/reviews/reviews-2.png",
+    "Photo": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/reviews/reviews-2.png",
     "Text": "Меня зовут Алёна. В компании я работаю уже более полутора лет. BUZZOLLS- это, прежде всего, люди. Я ценю компанию за то, что здесь царит атмосфера уюта и заботы. Менеджеры помнят о каждом сотруднике, стараются и подают хороший пример. Компания даёт мне огромную мотивацию и возможность развиваться. "
   },
   {
@@ -20,7 +20,7 @@
     "FirstName": "Полина",
     "Patronymic": "Николаевна",
     "EmployeeTypeString": "Оператор КЦ",
-    "Photo": "/catalog/reviews/reviews-3.png",
+    "Photo": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/reviews/reviews-3.png",
     "Text": "Я работаю в компании BUZZOLLS уже больше года. Здесь созданы все условия для комфортной работы: уютный офис с  зоной отдыха; дружный коллектив; график, который составляют по твоим предпочтениям и много приятных бонусов. Я благодарна, что в моей жизни есть такой опыт. BUZZOLLS - одна большая команда"
   },
   {
@@ -28,7 +28,7 @@
     "FirstName": "Юлия",
     "Patronymic": "Андреевна",
     "EmployeeTypeString": "Оператор КЦ",
-    "Photo": "/catalog/reviews/reviews-4.png",
+    "Photo": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/reviews/reviews-4.png",
     "Text": "Привет! Меня зовут Юлия, я работаю оператором 1,5 года. Мне нравится здесь работать, так как работа заключается в общении с людьми. У нас прекрасные руководители, которые всегда поддерживают нас и регулярно проводят тренинги. В BUZZOLLS я нашла не только коллег по работе, но и настоящих подруг!"
   },
   {
@@ -36,7 +36,7 @@
     "FirstName": "Александр",
     "Patronymic": "Сергеевич",
     "EmployeeTypeString": "Работник кухни",
-    "Photo": "/catalog/reviews/reviews-5.png",
+    "Photo": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/reviews/reviews-5.png",
     "Text": "В BUZZOLLS работаю 2 года,за это короткое время взлетел по карьерной лестнице от повара до менеджера.Компания стремительно растет,соответственно мы растем вместе с ней!\n\n"
   }
 ]
