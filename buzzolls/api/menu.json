@@ -24,7 +24,7 @@
       "name": "Флорида",
       "description": "1115 гр., 32 шт. Добавьте бесплатные наборы и приборы...",
       "price": "994",
-      "image": "/catalog/menu/menu-product-1.jpg"
+      "image": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/menu/menu-product-1.jpg"
     },
     {
       "id": "product_id_2",
@@ -46,7 +46,7 @@
       "name": "От шефа",
       "description": "750 гр., 32 шт. Добавьте бесплатные наборы и приборы ...",
       "price": "919",
-      "image": "/catalog/menu/menu-product-2.jpg"
+      "image": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/menu/menu-product-2.jpg"
     },
     {
       "id": "product_id_3",
@@ -72,7 +72,7 @@
       "name": "Классик",
       "description": "730 гр., 48 шт. Добавьте бесплатные наборы и приборы ...",
       "price": "924",
-      "image": "/catalog/menu/menu-product-3.jpg"
+      "image": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/menu/menu-product-3.jpg"
     },
     {
       "id": "product_id_4",
@@ -80,7 +80,7 @@
       "name": "4 гункана с угрем",
       "description": "4 гункана с угрем(200 гр.) Состав: рис, угорь, соус Унаги, кунжут, водоросли нори.",
       "price": "449",
-      "image": "/catalog/menu/menu-product-4.jpg",
+      "image": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/menu/menu-product-4.jpg",
       "size": "200 гр. / 4",
       "nutritional_value": "Белки - 8.5 / Жиры - 7.8 / Углеводы - 26 <br/> Калорийность - 208.2 ккал / 871.7 кДж"
 
@@ -97,7 +97,7 @@
       "name": "Филадельфия без огурца",
       "description": "С форелью и творожным сыром (200 гр.).",
       "price": "334",
-      "image": "/catalog/menu/menu-product-5.jpg"
+      "image": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/menu/menu-product-5.jpg"
     },
     {
       "id": "product_id_15",
@@ -115,7 +115,7 @@
       "name": "Горячий с курицей",
       "description": "С курицей, творожным сыром, огурцом, капустой, соусом Спайси, панировочными сухарями, кляром. (275 гр.).",
       "price": "329",
-      "image": "/catalog/menu/menu-product-15.jpg",
+      "image": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/menu/menu-product-15.jpg",
       "size": "275 гр. / 8",
       "nutritional_value": "Белки - 5.6 / Жиры - 4.7 / Углеводы - 18 <br/> Калорийность - 136.8 ккал / 572.9 кДж"
     },
@@ -135,7 +135,7 @@
       "name": "Запеченный с курицей",
       "description": "С курицей, творожным сыром, соусом Яки, Унаги и кунжутом (225 гр.).",
       "price": "284",
-      "image": "/catalog/menu/menu-product-16.jpg",
+      "image": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/menu/menu-product-16.jpg",
       "size": "225 гр. / 8",
       "nutritional_value": "Белки - 6.2 / Жиры - 14.9 / Углеводы - 16.1 <br/> Калорийность - 223 ккал / 933.7 кДж"
     },
@@ -155,7 +155,7 @@
       "name": "Сашими из форели",
       "description": "М/с форель с чукой, лимоном и кунжутом.",
       "price": "499",
-      "image": "/catalog/menu/menu-product-6.jpg",
+      "image": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/menu/menu-product-6.jpg",
       "nutritional_value": "Белки - 13 / Жиры - 9.3 / Углеводы - 5.5 <br/>Калорийность - 157.4 ккал / 657.9 кДж",
       "size": "190 гр. / 1"
     },
@@ -165,7 +165,7 @@
       "name": "Торикацу с рисом",
       "description": "М/Нежные куриные котлетки с сыром в сочетании с обжаренным рисом и нашей фирменной овощной базой из моркови, лука, чеснока, пекинской капусты, шампиньонов и кунжута, щедро приправленные соусом карри (340/25 гр.)",
       "price": "399",
-      "image": "/catalog/menu/menu-product-7.jpg",
+      "image": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/menu/menu-product-7.jpg",
       "nutritional_value": "Белки - 7 / Жиры - 6.4 / Углеводы - 13.1 <br/> Калорийность - 137.8 ккал / 577.3 кДж"
     },
     {
@@ -174,7 +174,7 @@
       "name": "Салат весенний с фирменным соусом",
       "description": "Свежее и не оставляющее равнодушным сочетание свежего огурца, капусты и кунжута под нашим фирменным соусом (110/30 гр.)",
       "price": "99",
-      "image": "/catalog/menu/menu-product-8.jpg",
+      "image": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/menu/menu-product-8.jpg",
       "nutritional_value": "Белки - 1.4 / Жиры - 5 / Углеводы - 5.6 <br/> Калорийность - 73.7 ккал / 308.6 кДж"
     },
     {
@@ -183,7 +183,7 @@
       "name": "#ФРИСЕТ",
       "description": "Картофель фри (мини-порция), картошка по-деревенски (мини-порция), креветки в панировке (мини-порция), наггетсы (мини-порция) (340 гр.)",
       "price": "599",
-      "image": "/catalog/menu/menu-product-9.jpg",
+      "image": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/menu/menu-product-9.jpg",
       "nutritional_value": "Белки - 6.5 / Жиры - 16 / Углеводы - 27 <br/> Калорийность - 278.1 ккал / 1164.8 кДж",
       "size": "340 / 1"
     },
@@ -193,7 +193,7 @@
       "name": "Пирожное Манго-маракуйя",
       "description": "Нежный десерт из манго с сердцевиной из сливочного суфле с ароматной начинкой из мякоти маракуйи с кислинкой на корже из кокосовой стружки (140гр.)",
       "price": "249",
-      "image": "/catalog/menu/menu-product-10.jpg",
+      "image": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/menu/menu-product-10.jpg",
       "nutritional_value": "Белки - 3 / Жиры - 11 / Углеводы - 24 <br/> Калорийность - 210 ккал / 870 кДж",
       "size": "140 гр. / 1"
     },
@@ -203,7 +203,7 @@
       "name": "Гранатовый сплэш",
       "description": "Яркий свежий вкус граната с кусочками кокосового желе, взрывными джус болами и тапиокой",
       "price": "319",
-      "image": "/catalog/menu/menu-product-11.jpg",
+      "image": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/menu/menu-product-11.jpg",
       "nutritional_value": "Белки - 0 / Жиры - 0 / Углеводы - 5.8 <br/> Калорийность - 23.5 ккал / 98 кДж",
       "size": "450 гр. / 1"
     },
@@ -213,7 +213,7 @@
       "name": "Приборы",
       "description": "Палочки для еды",
       "price": "5",
-      "image": "/catalog/menu/menu-product-12.jpg",
+      "image": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/menu/menu-product-12.jpg",
       "nutritional_value": "",
       "size": ""
     },
@@ -223,7 +223,7 @@
       "name": "Япоша",
       "description": "1225 гр., 48 шт. Добавьте бесплатные наборы и приборы...",
       "price": "1264",
-      "image": "/catalog/menu/menu-product-13.jpg",
+      "image": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/menu/menu-product-13.jpg",
       "tags": [
         {
           "name": "Выбор клиентов",
@@ -249,7 +249,7 @@
       "name": "Торнадо",
       "description": "1340 гр., 48 шт. Добавьте бесплатные наборы и приборы...",
       "price": "1264",
-      "image": "/catalog/menu/menu-product-14.jpg",
+      "image": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/menu/menu-product-14.jpg",
       "tags": [
         {
           "name": "Выбор клиентов",
@@ -336,7 +336,7 @@
       "sort_value": 1,
       "productsId": ["product_id_1", "product_id_2", "product_id_3", "product_id_13", "product_id_14"],
       "sub_categories": ["sub_category_id_1", "sub_category_id_2", "sub_category_id_3", "sub_category_id_4"],
-      "image": "/catalog/menu/menu-category-1.png",
+      "image": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/menu/menu-category-1.png",
       "on_home_page": true
     },
     {
@@ -345,7 +345,7 @@
       "slug": "rolls",
       "sort_value": 2,
       "productsId": ["product_id_5", "product_id_15", "product_id_16"],
-      "image": "/catalog/menu/menu-category-2.png",
+      "image": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/menu/menu-category-2.png",
       "on_home_page": true,
       "sub_categories": ["sub_category_id_5", "sub_category_id_6", "sub_category_id_7"]
     },
@@ -355,7 +355,7 @@
       "slug": "syshi",
       "sort_value": 3,
       "productsId": ["product_id_4"],
-      "image": "/catalog/menu/menu-category-3.png",
+      "image": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/menu/menu-category-3.png",
       "on_home_page": true
     },
     {
@@ -371,7 +371,7 @@
       "slug": "woki",
       "sort_value": 5,
       "productsId": ["product_id_7"],
-      "image": "/catalog/menu/menu-category-5.png",
+      "image": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/menu/menu-category-5.png",
       "on_home_page": true
     },
     {
@@ -380,7 +380,7 @@
       "slug": "salads",
       "sort_value": 6,
       "productsId": ["product_id_8"],
-      "image": "/catalog/menu/menu-category-6.png",
+      "image": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/menu/menu-category-6.png",
       "on_home_page": true
     },
     {
@@ -389,7 +389,7 @@
       "slug": "garnishes",
       "sort_value": 7,
       "productsId": ["product_id_9"],
-      "image": "/catalog/menu/menu-category-7.png",
+      "image": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/menu/menu-category-7.png",
       "on_home_page": true
     },
     {
@@ -398,7 +398,7 @@
       "slug": "desserts",
       "sort_value": 8,
       "productsId": ["product_id_10"],
-      "image": "/catalog/menu/menu-category-8.png",
+      "image": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/menu/menu-category-8.png",
       "on_home_page": true
     },
     {
@@ -407,7 +407,7 @@
       "slug": "drinks",
       "sort_value": 9,
       "productsId": ["product_id_11"],
-      "image": "/catalog/menu/menu-category-9.png",
+      "image": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/menu/menu-category-9.png",
       "on_home_page": true
     },
     {
@@ -416,7 +416,7 @@
       "slug": "goods",
       "sort_value": 10,
       "productsId": ["product_id_12"],
-      "image": "/catalog/menu/menu-category-10.png",
+      "image": "https://raw.githubusercontent.com/Markoniolo/api/main/buzzolls/catalog/menu/menu-category-10.png",
       "on_home_page": true
     }
   ]
