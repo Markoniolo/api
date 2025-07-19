@@ -1,8 +1,8 @@
 [
   {
     "id": 4,
-    "logo": "https://github.com/Markoniolo/api/blob/main/buzzolls/catalog/restaurants/restaurants-4.jpg",
-    "rating": 4.6,
+    "logo": "https://raw.githubusercontent.com/Markoniolo/api/refs/heads/main/buzzolls/catalog/restaurants/restaurants-4.jpg",
+    "rating": "4.6",
     "review_count": 43,
     "bonus_amount": 0,
     "badge": "no-bonus",
@@ -11,8 +11,8 @@
   },
   {
     "id": 5,
-    "logo": "https://github.com/Markoniolo/api/blob/main/buzzolls/catalog/restaurants/restaurants-5.jpg",
-    "rating": 5.0,
+    "logo": "https://raw.githubusercontent.com/Markoniolo/api/refs/heads/main/buzzolls/catalog/restaurants/restaurants-5.jpg",
+    "rating": "5.0",
     "review_count": 34,
     "bonus_amount": "2.5K ₽",
     "badge": "no-deposit",
@@ -21,8 +21,8 @@
   },
   {
     "id": 3,
-    "logo": "https://github.com/Markoniolo/api/blob/main/buzzolls/catalog/restaurants/restaurants-3.jpg",
-    "rating": 4.7,
+    "logo": "https://raw.githubusercontent.com/Markoniolo/api/refs/heads/main/buzzolls/catalog/restaurants/restaurants-3.jpg",
+    "rating": "4.7",
     "review_count": 325,
     "bonus_amount": "10K ₽",
     "badge": false,
@@ -31,8 +31,8 @@
   },
   {
     "id": 1,
-    "logo": "https://github.com/Markoniolo/api/blob/main/buzzolls/catalog/restaurants/restaurants-1.jpg",
-    "rating": 4.9,
+    "logo": "https://raw.githubusercontent.com/Markoniolo/api/refs/heads/main/buzzolls/catalog/restaurants/restaurants-1.jpg",
+    "rating": "4.9",
     "review_count": 325,
     "bonus_amount": "25K ₽",
     "badge": "exclusive",
@@ -41,8 +41,8 @@
   },
   {
     "id": 2,
-    "logo": "https://github.com/Markoniolo/api/blob/main/buzzolls/catalog/restaurants/restaurants-2.jpg",
-    "rating": 4.8,
+    "logo": "https://raw.githubusercontent.com/Markoniolo/api/refs/heads/main/buzzolls/catalog/restaurants/restaurants-2.jpg",
+    "rating": "4.8",
     "review_count": 87,
     "bonus_amount": "101K ₽",
     "badge": "no-deposit",
